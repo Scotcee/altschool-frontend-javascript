@@ -27,6 +27,7 @@ function sumOfNumbersTo(destination) {
     return sum
 
 }
+assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
  * Challenge - 2
@@ -83,6 +84,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     return result;
 }
 
+assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 // ========================
 // DO NOT EDIT THIS BLOCK
